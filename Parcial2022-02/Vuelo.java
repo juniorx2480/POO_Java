@@ -1,4 +1,11 @@
-public class Vuelo { // Atributos private String codigo; private String origen; private String destino; private Pasajero[] pasajeros; private int disponibilidad;
+public class Vuelo {    
+
+// Atributos 
+private String codigo;
+private String origen; 
+private String destino;
+private Pasajero[] pasajeros;
+private int disponibilidad;
 
 // Constructor por defecto
 public Vuelo() {
