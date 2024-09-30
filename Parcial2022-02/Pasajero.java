@@ -1,4 +1,10 @@
-public class Pasajero { // Atributos private String nombres; private String apellidos; private String numeroDePasaporte; private String asiento; private int edad;
+public class Pasajero { 
+// Atributos  
+private String nombres; 
+private String apellidos;
+private String numeroDePasaporte; 
+private String asiento; 
+private int edad;
 
 // Constructor por defecto
 public Pasajero() {
