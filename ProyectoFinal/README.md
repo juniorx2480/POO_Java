@@ -51,7 +51,6 @@ scss
 2. C++ compilador como g++ o similar.
 3. El programa puede ejecutarse en cualquier entorno compatible con JavaFX y C++, como por ejemplo Replit, IntelliJ IDEA (para la interfaz gráfica) y g++ (para el código de C++).
 
-Este README ofrece una descripción detallada de las funciones y la estructura de tu proyecto, además de las instrucciones básicas para ejecutarlo. ¡Espero que sea útil para tu documentación!
 
 
 
