@@ -1,1 +1,15 @@
+<BorderPane xmlns:fx="http://javafx.com/fxml" fx:controller="controllers.VentasController">
+    <center>
+        <VBox spacing="10">
+            <TextField fx:id="nombreProducto" promptText="Nombre" />
+            <TextField fx:id="precioProducto" promptText="Precio" />
+            <TextField fx:id="cantidadProducto" promptText="Cantidad" />
+            <Button text="Registrar" onAction="#registrarProducto" />
+            <ListView fx:id="listaProductos" />
+            <TextField fx:id="ventasInput" promptText="Ventas" />
+            <Button text="Predecir" onAction="#predecirPrecio" />
+            <Label fx:id="resultadoPrediccion" />
+        </VBox>
+    </center>
+</BorderPane>
 
